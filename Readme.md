@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Виктория Дементиенко](https://up.htmlacademy.ru/htmlcss-individual/2/user/2248213).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k).
+* Сайт: [Мой проект Седона]( https://dementienkoviktoria.github.io/2248213-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
